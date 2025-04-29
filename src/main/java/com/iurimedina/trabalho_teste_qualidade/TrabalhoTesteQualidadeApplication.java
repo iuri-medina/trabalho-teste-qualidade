@@ -21,7 +21,7 @@ public class TrabalhoTesteQualidadeApplication {
 		
 		Scanner scanner = new Scanner(System.in);
 			
-		System.out.println("Digite sua idade: ");
+		System.out.println("Digite a sua idade: ");
 		int idadeUsuario = Integer.parseInt(scanner.nextLine());
 			
 		System.out.println("Digite a quantidade de bilhetes que deseja comprar: ");
